@@ -33,7 +33,7 @@ To run and test the Solana program locally, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/School-of-Solana/solana-program-Arulselvan-65.git
+    git clone https://github.com/Arulselvan-65/crowdfunding-dapp.git
     cd anchor_project
     ```
 
@@ -62,7 +62,7 @@ To run the frontend locally:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/School-of-Solana/solana-program-Arulselvan-65.git
+    git clone https://github.com/Arulselvan-65/crowdfunding-dapp.git
     cd frontend
     ```
 
