@@ -81,9 +81,7 @@ To run the frontend locally:
     ```
 
 ---
-Contributing
-We welcome contributions to improve the Crowdfunding DApp. Please fork the repository and submit pull requests.
-
 Feel free to explore the code, suggest improvements, and contribute to making this DApp even better!
 
 Happy Coding!
+---
